@@ -55,6 +55,8 @@ You will need to set up permissions so that you can call the deployed Functions 
 The Cloud Run Console lists up the Deployed Functions, so configure each function so that it can be called by unauthorized users.
 Refer to [CGP documentation](https://cloud.google.com/run/docs/authenticating/public).
 
+![スクリーンショット 2023-08-24 9 21 47](https://github.com/mrtry/eas-cloud-functions/assets/8851552/59d35862-389c-4170-9316-b85573fd21b8)
+
 ### Tips
 
 - When deploying, an error may occur due to insufficient privileges.
