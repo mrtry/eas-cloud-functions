@@ -6,7 +6,7 @@ Firebase Cloud Functions to notify Slack of EAS (Build|Submit) results.
 
 | Success  |  Failed  |   Cancel   | 
 |:--------:|:--------:|:----------:|
-|          |          |            |
+| <img width="500" alt="スクリーンショット 2023-08-24 18 34 47" src="https://github.com/mrtry/eas-cloud-functions/assets/8851552/c7bb3c9f-b3d6-4805-903c-8675c68edd93"> | <img width="498" alt="スクリーンショット 2023-08-24 18 35 12" src="https://github.com/mrtry/eas-cloud-functions/assets/8851552/1636d101-f8cf-4598-8454-458a90f5c573"> | <img width="500" alt="スクリーンショット 2023-08-24 18 35 29" src="https://github.com/mrtry/eas-cloud-functions/assets/8851552/73de580a-4e61-41ce-aabd-fc5488f79ac5"> |
 
 # Setup
 
@@ -47,7 +47,7 @@ Edit `.env`.
 Once you have set up everything, Deploy
 
 ```shell
-$ yarn deploy
+$ yarn install
 $ yarn deploy
 ```
 
