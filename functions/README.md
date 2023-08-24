@@ -41,8 +41,8 @@ Edit `.env`.
 
 | key                   | description                                                                                                                           |
 |:----------------------|:--------------------------------------------------------------------------------------------------------------------------------------|
-| SLACK_CHANNEL         | Specify the Slack Channel name or Channel ID for which you want to post notifications. ex: `#app-notifications` `AHJG82i`             | 
-| GITHUB_REPOSITORY_URL | Specify the GitHub Repository where the app's codebase is located. Link will set the `Commit message` in the notification. ex: `https://github.com/mrtry/eas-cloud-functions`|
+| SLACK_CHANNEL         | Specify the Slack Channel name or Channel ID for which you want to post notifications.<br/>ex: `#app-notifications` `AHJG82i`             | 
+| GITHUB_REPOSITORY_URL | Specify the GitHub Repository where the app's codebase is located. Link will set the `Commit message` in the notification.<br/>ex: `https://github.com/mrtry/eas-cloud-functions`|
 
 Once you have set up everything, Deploy
 
